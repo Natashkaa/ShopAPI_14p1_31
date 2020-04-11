@@ -40,3 +40,17 @@
 /Users/dmitry/Desktop/STEP/14п1_31/ASP.NET/ShopAPI/Shop.API/obj/Debug/netcoreapp2.2/Shop.API.RazorTargetAssemblyInfo.cache
 /Users/dmitry/Desktop/STEP/14п1_31/ASP.NET/ShopAPI/Shop.API/obj/Debug/netcoreapp2.2/Shop.API.dll
 /Users/dmitry/Desktop/STEP/14п1_31/ASP.NET/ShopAPI/Shop.API/obj/Debug/netcoreapp2.2/Shop.API.pdb
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\bin\Debug\netcoreapp2.2\Shop.API.deps.json
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\bin\Debug\netcoreapp2.2\Shop.API.runtimeconfig.json
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\bin\Debug\netcoreapp2.2\Shop.API.runtimeconfig.dev.json
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\bin\Debug\netcoreapp2.2\Shop.API.dll
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\bin\Debug\netcoreapp2.2\Shop.API.pdb
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\obj\Debug\netcoreapp2.2\Shop.API.csprojAssemblyReference.cache
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\obj\Debug\netcoreapp2.2\Shop.API.csproj.CoreCompileInputs.cache
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\obj\Debug\netcoreapp2.2\Shop.API.RazorAssemblyInfo.cache
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\obj\Debug\netcoreapp2.2\Shop.API.RazorAssemblyInfo.cs
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\obj\Debug\netcoreapp2.2\Shop.API.AssemblyInfoInputs.cache
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\obj\Debug\netcoreapp2.2\Shop.API.AssemblyInfo.cs
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\obj\Debug\netcoreapp2.2\Shop.API.RazorTargetAssemblyInfo.cache
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\obj\Debug\netcoreapp2.2\Shop.API.dll
+C:\Users\Natashka\Desktop\ShopAPI_14p1_31\Shop.API\obj\Debug\netcoreapp2.2\Shop.API.pdb
